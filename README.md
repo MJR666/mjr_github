@@ -1,1 +1,3 @@
 # mjr_github
+HELLO MJR!
+WELCOME TO GITHUB...
